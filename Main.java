@@ -7,13 +7,14 @@ public class Main {
         Best.swingSword();
         Best.swingSword();
         Best.takeDamage(50);
+        Best.takeDamage(50);
         Best.takeDamage(100);
-        Best.takeDamage(100);
-        Best.takeDamage(100);
-        Best.takeDamage(-100);
-        Best.takeDamage(100);
+        Best.takeDamage(50);
         Best.rest();
-        Best.takeDamage(100);
+        Best.swingSword();
+        Best.swingSword();
+        Best.takeDamage(50);
+        Best.takeDamage(-50);
 
     }
 }
